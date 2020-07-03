@@ -7,7 +7,7 @@
 ###private 
 
 큐의 배열인 arr와 큐의 위치인 fornt,rear 그리고 크기를 의미하는 capacity가 있다.
-
+###Lists
 ###public
 
 * 생성자: Queue()
