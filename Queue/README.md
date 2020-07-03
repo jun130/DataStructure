@@ -6,15 +6,13 @@
 
 private 에 큐의 배열인 arr와 큐의 위치인 fornt,rear 그리고 크기를 의미하는 capacity가 있다.
 
-public 은 
+public
 
-생성자: Queue()
+-생성자: Queue()
 
-삽입함수: 
+-삽입함수: push(T tdata)
 
-push(T tdata)
-
-삭제함수:
+-삭제함수:
 
 pop()
 
