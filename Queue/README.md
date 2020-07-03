@@ -4,10 +4,10 @@
 
 먼저 class Queue는 큐의 배열과 크기와 원소수를 반환하는 핵심 함수이다.
 
-###private 
+<h1>private</h1> 
 
 큐의 배열인 arr와 큐의 위치인 fornt,rear 그리고 크기를 의미하는 capacity가 있다.
-###Lists
+
 ###public
 
 * 생성자: Queue()
