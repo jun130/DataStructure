@@ -8,9 +8,9 @@ private 에 큐의 배열인 arr와 큐의 위치인 fornt,rear 그리고 크기
 
 public
 
-*생성자: Queue()
+* 생성자: Queue()
 
-*삽입함수: push(T tdata)
+* 삽입함수: push(T tdata)
 
 <ol>삭제함수:
 
